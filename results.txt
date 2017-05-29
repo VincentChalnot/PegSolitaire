@@ -1,0 +1,279 @@
+ ============= WIN ! =============
+
+Iterations: 2463431 - Games played: 4949 - Skipped through symmetry: 1954902
+Game Over stats:
+  - 845 games with 7 stones
+  - 1065 games with 8 stones
+  - 973 games with 9 stones
+  - 604 games with 10 stones
+  - 586 games with 6 stones
+  - 253 games with 5 stones
+  - 304 games with 11 stones
+  - 93 games with 4 stones
+  - 139 games with 12 stones
+  - 46 games with 13 stones
+  - 18 games with 3 stones
+  - 9 games with 14 stones
+  - 1 games with 16 stones
+  - 4 games with 2 stones
+  - 9 games with 15 stones
+  - 1 games with 1 stones
+Elapsed time: 483s
+
+
+
+  ooo  
+  ooo  
+ooooooo
+ooo·ooo
+ooooooo
+  ooo  
+  ooo  
+
+  ooo  
+  ooo  
+ooooooo
+ooooooo
+ooo·ooo
+  o·o  
+  ooo  
+
+  ooo  
+  ooo  
+ooo·ooo
+ooo·ooo
+ooooooo
+  o·o  
+  ooo  
+
+  o·o  
+  o·o  
+ooooooo
+ooo·ooo
+ooooooo
+  o·o  
+  ooo  
+
+  o·o  
+  o·o  
+ooooooo
+o··oooo
+ooooooo
+  o·o  
+  ooo  
+
+  o·o  
+  ooo  
+ooo·ooo
+o···ooo
+ooooooo
+  o·o  
+  ooo  
+
+  o·o  
+  ooo  
+o··oooo
+o···ooo
+ooooooo
+  o·o  
+  ooo  
+
+  ··o  
+  ·oo  
+o·ooooo
+o···ooo
+ooooooo
+  o·o  
+  ooo  
+
+  ··o  
+  o··  
+o·ooooo
+o···ooo
+ooooooo
+  o·o  
+  ooo  
+
+  ··o  
+  o·o  
+o·oo·oo
+o····oo
+ooooooo
+  o·o  
+  ooo  
+
+  ··o  
+  o·o  
+oo···oo
+o····oo
+ooooooo
+  o·o  
+  ooo  
+
+  ··o  
+  o·o  
+··o··oo
+o····oo
+ooooooo
+  o·o  
+  ooo  
+
+  ··o  
+  o·o  
+o·o··oo
+·····oo
+·oooooo
+  o·o  
+  ooo  
+
+  ···  
+  o··  
+o·o·ooo
+·····oo
+·oooooo
+  o·o  
+  ooo  
+
+  ···  
+  o··  
+o·oo··o
+·····oo
+·oooooo
+  o·o  
+  ooo  
+
+  ···  
+  o··  
+oo····o
+·····oo
+·oooooo
+  o·o  
+  ooo  
+
+  ···  
+  o··  
+··o···o
+·····oo
+·oooooo
+  o·o  
+  ooo  
+
+  ···  
+  o··  
+··o···o
+··o··oo
+·o·oooo
+  ··o  
+  ooo  
+
+  ···  
+  o··  
+··o···o
+··o··oo
+·oo··oo
+  ··o  
+  ooo  
+
+  ···  
+  o··  
+··o···o
+··o··oo
+·oo·o··
+  ··o  
+  ooo  
+
+  ···  
+  o··  
+··o····
+··o··o·
+·oo·o·o
+  ··o  
+  ooo  
+
+  ···  
+  o··  
+··o····
+·····o·
+·o··o·o
+  o·o  
+  ooo  
+
+  ···  
+  ···  
+·······
+··o··o·
+·o··o·o
+  o·o  
+  ooo  
+
+  ···  
+  ···  
+·······
+··o··o·
+·oo·o·o
+  ··o  
+  ·oo  
+
+  ···  
+  ···  
+·······
+·····o·
+·o··o·o
+  o·o  
+  ·oo  
+
+  ···  
+  ···  
+·······
+·····o·
+·o··o·o
+  o·o  
+  o··  
+
+  ···  
+  ···  
+·······
+·····o·
+·oo·o·o
+  ··o  
+  ···  
+
+  ···  
+  ···  
+·······
+·····o·
+···oo·o
+  ··o  
+  ···  
+
+  ···  
+  ···  
+·······
+·····o·
+·····oo
+  ··o  
+  ···  
+
+  ···  
+  ···  
+·······
+·····o·
+····o··
+  ··o  
+  ···  
+
+  ···  
+  ···  
+·······
+····oo·
+·······
+  ···  
+  ···  
+
+  ···  
+  ···  
+·······
+···o···
+·······
+  ···  
+  ···
